@@ -82,8 +82,8 @@ namespace Test3D
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-
-            // TODO: Add your drawing code here
+	
+            //Todo: Lam gi do o day
 
             base.Draw(gameTime);
         }
